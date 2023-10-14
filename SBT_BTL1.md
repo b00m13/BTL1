@@ -16,3 +16,6 @@ Covers the following 6 domains:
 -Incident Response
 
 ![image](https://user-images.githubusercontent.com/75471711/228911676-aef93e20-41a3-4c91-b12a-aaefe61a342a.png)
+
+
+Certification roadmap coming soon...
